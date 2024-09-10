@@ -1,0 +1,8 @@
+
+# Identifier of a set X.
+
+:- modeb(*,is_bset_X(+bset))?
+is_bset_X(X).
+bset(X).
+
+
